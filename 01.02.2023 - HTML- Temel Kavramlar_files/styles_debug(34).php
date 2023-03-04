@@ -1,0 +1,10 @@
+/** Path: plugin mod_securepdf .' **/
+.mod_securepdf_pageslinks {
+    font-size: 1.5rem;
+}
+
+.mod_securepdf_pageslinks a {
+    margin-left: 3px;
+}
+
+
